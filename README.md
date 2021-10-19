@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=700&lines=Hi+my+name+is+Ben+,+Welcome+to+my+Github++++++++++++++++)](https://git.io/typing-svg) <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=partyzl&repo=partyzl&countColorcountColor&countColor=%237B1E7B"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&multiline=true&width=700&lines=Hi+my+name+is+Ben+,+Welcome+to+my+Github++++++++++++++++)](https://git.io/typing-svg) 
